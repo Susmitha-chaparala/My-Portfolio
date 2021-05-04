@@ -218,8 +218,25 @@ section .title::after{
     width: 50%;
 }
 
+/* achievements section styling */
+.achievements .title::after{
+    content:"what i achieve";
+}
+.achievements p{
+    font-size: x-large;
+    color:indigo;
+    text-align:center;
 
-
+}
+/* projects section styling */
+.projects .title::after{
+    content:"what i did";
+}
+.projects p{
+    font-size: x-large;
+    color:indigo;
+    text-align: center;
+}
 /* menu btn styling */
 .menu-btn{
     color:#fff;
