@@ -436,7 +436,7 @@ section .title::after{
 .contact .right form .field input:hover,
 .contact .right form .textarea textarea:hover{
     background-color:rgb(231, 228, 228);
-    color:white;
+    color:indigo;
 }
 /* status section starts */
 #status {
